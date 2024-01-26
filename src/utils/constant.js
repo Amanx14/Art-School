@@ -1,0 +1,1 @@
+export const HERO_IMG = 'https://static.wixstatic.com/media/3b1f25_f867f476e0424dbe8abb29df64b083b5.jpg/v1/fill/w_1349,h_1138,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/3b1f25_f867f476e0424dbe8abb29df64b083b5.jpg'
